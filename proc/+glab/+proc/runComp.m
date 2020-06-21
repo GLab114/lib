@@ -2,7 +2,7 @@ function results = runComp(compOrFn, nOut, varargin)
 %RUNCOMP Run a computation.
 % v0.1.0 | N Gelwan | 2020-05
 %   Dispatches on whether the first argument is a function handle or a
-%   glab.ppln.AbsComp subclass.
+%   glab.proc.AbsComp subclass.
 %
 %   NOTE: If you get confused reading through the source of this function,
 %   refer to https://www.mathworks.com/matlabcentral/answers/96038-how-can-i-capture-an-unknown-number-of-output-arguments-in-a-cell-array-in-matlab-7-5-r2007b#answer_216954
